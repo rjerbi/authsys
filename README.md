@@ -21,13 +21,8 @@ A brief full-stack authentication project using Angular as frontend and Django R
 - Angular CLI
 
 # Run the Project :
-- Backend:
-  python manage.py runserver
+- Backend: run `python manage.py runserver` at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+- Frontend: run `ng serve` at [http://localhost:4200/](http://localhost:4200/)
 
-- Frontend:
-  ng serve
 
-- URLs:
-  Backend: http://127.0.0.1:8000/
 
-  Frontend: http://localhost:4200/
